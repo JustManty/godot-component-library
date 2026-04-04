@@ -1,5 +1,5 @@
 class_name ScaleModulatorComponent
-extends Control
+extends Node
 
 var _parent : Node = get_parent()
 var _current_state : _State
